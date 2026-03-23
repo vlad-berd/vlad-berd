@@ -23,5 +23,7 @@
 ![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)
 ![Visual_Studio_Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white)
 
+
 #### Связь:
 ##### [![telegram](https://images.icon-icons.com/2530/PNG/96/telegram_button_icon_151837.png)](https://t.me/BugReaper)
+#### Статус: в активном поиске работы
