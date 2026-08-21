@@ -49,7 +49,7 @@
 - [API тестирование (Requests + Charles Proxy + Postman + SQL + Faker + Allure + негативные сценарии)](https://github.com/vlad-berd/Sprint_7)  
 - [Unit тесты (Mock, 100% coverage)](https://github.com/vlad-berd/Diplom_1)  
 - [UI тестирование (Selenium + Page Object Model + Allure)](https://github.com/vlad-berd/Diplom_3)
-- [Мобильное тестирование (Android Studio)](https://docs.google.com/spreadsheets/d/1hl4R-YdWrkGAUw3ID91w5M_JB8GSCL2p2tVsFRHWUqc/edit?gid=1916524842#gid=1916524842)
+- [Мобильное тестирование (Android Studio)](https://docs.google.com/spreadsheets/d/1hl4R-YdWrkGAUw3ID91w5M_JB8GSCL2p2tVsFRHWUqc/edit?gid=899462569#gid=899462569&range=A1:D1)
 
 ---
 
